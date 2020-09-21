@@ -1,3 +1,7 @@
 hello world.
 
+<<<<<<< HEAD
 What's up ????
+=======
+This is the added by Jagadeesh.
+>>>>>>> 82eae06ef82a281e82bde89ebb9ea3177cd05a79
